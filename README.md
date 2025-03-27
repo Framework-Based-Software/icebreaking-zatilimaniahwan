@@ -2,7 +2,7 @@
 ![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/user-attachments/assets/bacd9a7d-985c-45f7-8373-5779c4bc1cb0)
 
 # 👋 Hey there, I'm Zatil Imani!  
-### 🚀 Full-Stack Software Engineer at EPAM System | Generative AI & LLM Enthusiast | Fintech & Crypto Innovator  
+### 🚀 Full Stack Software Engineer at EPAM System | Generative AI & LLM Enthusiast | Fintech & Crypto Innovator  
 
 I'm a **dynamic and skilled Full Stack Engineer** with a passion for building scalable applications and leveraging cutting-edge technology to solve real-world problems. I thrive in fast-paced, collaborative environments and love working on innovative software solutions that make a **global impact**.  
 
